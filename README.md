@@ -19,7 +19,7 @@ Bu proje, temel veri yönetimi işlemlerini (CRUD) simüle etmek amacıyla geli�
 Projeyi yerel makinenize indirmek için terminale şu komutu yazabilirsiniz:
 Bash
 
-git clone https://github.com/kullaniciadi/SDMP-Simple-Data-Management-Program.git
+git clone https://github.com/dalperen1212/SDMP-Simple-Data-Management-Program.git
 
 --Kullanım
 
